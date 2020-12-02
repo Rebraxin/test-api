@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "weekDay": "Lundi",
+      "dayStatus": "passenger",
+      "event": {
+        "startTime": 9,
+        "endTime": 17,
+        "startPassenger": 2,
+        "endPassenger": 3
+      }
+    },
+    {
+      "weekDay": "Mardi",
+      "dayStatus": "driver",
+      "event": {
+        "startTime": 8,
+        "endTime": 16,
+        "startPassenger": 1,
+        "endPassenger": 3
+      }
+    },
+    {
+      "weekDay": "Mercredi",
+      "dayStatus": "passenger",
+      "event": {
+        "startTime": 10,
+        "endTime": 18,
+        "startPassenger": 2,
+        "endPassenger": 1
+      }
+    },
+    {
+      "weekDay": "Jeudi",
+      "dayStatus": "passenger",
+      "event": {
+        "startTime": 9,
+        "endTime": 15,
+        "startPassenger": 2,
+        "endPassenger": 0
+      }
+    },
+    {
+      "weekDay": "Vendredi",
+      "dayStatus": "custom",
+      "event": {
+        "startTime": 10,
+        "endTime": 17,
+        "startPassenger": 0,
+        "endPassenger": 2
+      }
+    }
+  ]
+}
